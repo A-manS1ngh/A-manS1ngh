@@ -1,6 +1,6 @@
 Hello, I'm Aman!
 
- _Exploring Code, Data, Cloud, AI_
+ _Exploring Data
 
 
 
